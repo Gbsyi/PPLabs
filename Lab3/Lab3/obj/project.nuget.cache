@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QuNDBNbf2UyPhsd0xei9wFzK1Tv8nh1v00l4P/0vNl5Ke5PjjFK2xLjmdVHxZQ6H1XW85HX627Tw+y/zgIRbsw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\GitHub Projects\\PPLabs\\Lab3\\Lab3\\Lab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yava0\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\yava0\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\yava0\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
