@@ -1,0 +1,6 @@
+     Match| FirstTeam|SecondTeam|   Players|
+===============================================
+     Abaza|     First|    Second|     Boris|
+          |          |          |    Vitaly|
+          |          |          |      Oleg|
+          |          |          |    Dmitry|
