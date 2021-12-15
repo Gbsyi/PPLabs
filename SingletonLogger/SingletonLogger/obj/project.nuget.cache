@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7BT/Y+1TqffA64J1MBke94XXYfKNJEzVggVpd06FpMZ+ZlGXRglWXTbJJgO7+zu6JvlbnkI6Sta1RydVXK363g==",
+  "dgSpecHash": "a2P4C1pwm7aU4XSTUF2SXGwdKMowCMKK6cyGWmPNXFD+woH/6XtjGmNyF/Dp4InZ9XEdIpoR/E1lo9YbocXldw==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\C#\\Mochalina\\SingletonLogger\\SingletonLogger\\SingletonLogger.csproj",
+  "projectFilePath": "D:\\Projects\\GitHub Projects\\PPLabs\\SingletonLogger\\SingletonLogger\\SingletonLogger.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

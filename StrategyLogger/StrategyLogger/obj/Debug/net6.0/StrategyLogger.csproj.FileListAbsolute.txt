@@ -1,0 +1,15 @@
+D:\Projects\C#\Mochalina\StrategyLogger\StrategyLogger\bin\Debug\net6.0\StrategyLogger.exe
+D:\Projects\C#\Mochalina\StrategyLogger\StrategyLogger\bin\Debug\net6.0\StrategyLogger.deps.json
+D:\Projects\C#\Mochalina\StrategyLogger\StrategyLogger\bin\Debug\net6.0\StrategyLogger.runtimeconfig.json
+D:\Projects\C#\Mochalina\StrategyLogger\StrategyLogger\bin\Debug\net6.0\StrategyLogger.dll
+D:\Projects\C#\Mochalina\StrategyLogger\StrategyLogger\bin\Debug\net6.0\ref\StrategyLogger.dll
+D:\Projects\C#\Mochalina\StrategyLogger\StrategyLogger\bin\Debug\net6.0\StrategyLogger.pdb
+D:\Projects\C#\Mochalina\StrategyLogger\StrategyLogger\obj\Debug\net6.0\StrategyLogger.csproj.AssemblyReference.cache
+D:\Projects\C#\Mochalina\StrategyLogger\StrategyLogger\obj\Debug\net6.0\StrategyLogger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\Mochalina\StrategyLogger\StrategyLogger\obj\Debug\net6.0\StrategyLogger.AssemblyInfoInputs.cache
+D:\Projects\C#\Mochalina\StrategyLogger\StrategyLogger\obj\Debug\net6.0\StrategyLogger.AssemblyInfo.cs
+D:\Projects\C#\Mochalina\StrategyLogger\StrategyLogger\obj\Debug\net6.0\StrategyLogger.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Mochalina\StrategyLogger\StrategyLogger\obj\Debug\net6.0\StrategyLogger.dll
+D:\Projects\C#\Mochalina\StrategyLogger\StrategyLogger\obj\Debug\net6.0\ref\StrategyLogger.dll
+D:\Projects\C#\Mochalina\StrategyLogger\StrategyLogger\obj\Debug\net6.0\StrategyLogger.pdb
+D:\Projects\C#\Mochalina\StrategyLogger\StrategyLogger\obj\Debug\net6.0\StrategyLogger.genruntimeconfig.cache
